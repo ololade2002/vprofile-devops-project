@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/PC/Desktop/Eleja Ololade/DevOps/Projects/myproject/vagrant/Manual_provisioning","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
